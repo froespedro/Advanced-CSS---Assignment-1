@@ -9,7 +9,4 @@ Attached are four documents:
 - Persona. 
 
 
-Link to see the projects directly: 
 
-- https://my.visme.co/editor/aTM0SWxwSUR2REdiQzZQRnhnTTNndz09Ojqn83IvKs2J0LsHGNdeGebE?template=dWphbThGQzd2eW9YeVROLzJibElKQT09Ojow29Q48nB1WlJeL-ZBZIus
-- https://wireframe.cc/pro/pp/de9b5be96655095
